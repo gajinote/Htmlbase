@@ -32,6 +32,6 @@ h1 {
 
 .menu {
   background: rgb(130,128,164);
-  background: linear-gradient(0deg, rgba(130,128,164,1) 0%, rgba(79,172,254,1) 35%, rgba(0,242,254,1) 100%);
+  background: linear-gradient(0deg, rgba(104,150,210,1) 2%, rgba(79,172,254,1) 25%, rgba(0,242,254,1) 100%);
   margin-bottom:30px;
 }
