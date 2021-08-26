@@ -94,6 +94,24 @@ h1 {
   margin-left: 115px;
 }
 
+.navigation {
+  overflow: hidden;
+  padding: 10px 0;
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+
+.prev {
+  float: left;
+  width: 200px;
+}
+
+.next {
+  float: right;
+  width: 200px;
+  text-align: right;
+}
+
 /* sidebar */
 #sidebar {
   float: right;
